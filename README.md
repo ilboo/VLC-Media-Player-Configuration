@@ -2,9 +2,13 @@
 Configuring VLC Media Player for Language Learning
 
 Preferences: Ctrl + P
+
 Tools => Preferences => Hotkeys => Mouse wheel vertical axis control: Position control
+
 Tools => Preferences => Hotkeys => Navigate Up/Down => Double-click and Select 'Unset' in order to prevent Up/Down keys from increasing/decreasing the volume
+
 Tools => Preferences => Continue playback?: Never
+
 View => Status Bar (to see the playback speed)
 
 
