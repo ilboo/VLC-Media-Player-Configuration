@@ -1,37 +1,33 @@
 # VLC-Media-Player-Configuration
 Configuring VLC Media Player for Language Learning
 
-Preferences: Ctrl + P
-
-Tools => Preferences => Hotkeys => Mouse wheel vertical axis control: Position control
-
-Tools => Preferences => Hotkeys => Navigate Up/Down => Double-click and Select 'Unset' in order to prevent Up/Down keys from increasing/decreasing the volume
-
-Tools => Preferences => Continue playback?: Never
-
+Preferences: Ctrl + P\
+Tools => Preferences => Hotkeys => Mouse wheel vertical axis control: Position control\
+Tools => Preferences => Hotkeys => Navigate Up/Down => Double-click and Select 'Unset' in order to prevent Up/Down keys from increasing/decreasing the volume\
+Tools => Preferences => Continue playback?: Never\
 View => Status Bar (to see the playback speed)
 
 
 ===== Essential =====
 
-Loop       : L
-Previous   : P
-Next       : N
+Loop       : L\
+Previous   : P\
+Next       : N\
 Playlist   : Ctrl + L (Save Playlist: Ctrl + Y)
 
-Navigation         : Mouse wheel (Same as Very Short Forward/Backward)
-Navigate Right     : → (Same as Short Forward : Alt + →)
-Very Short Forward : Shift + →
-Navigate Left      : ← (Same as Short Backward: Alt + ←)
-Very Short Backward: Shift + ←
+Navigation         : Mouse wheel (Same as Very Short Forward/Backward)\
+Navigate Right     : → (Same as Short Forward : Alt + →)\
+Very Short Forward : Shift + →\
+Navigate Left      : ← (Same as Short Backward: Alt + ←)\
+Very Short Backward: Shift + ←\
 
-(Playback Speed)
-Normal       : =
-Faster (fine): ]
+(Playback Speed)\
+Normal       : =\
+Faster (fine): ]\
 Slower (fine): [
 
-(Volume)
-Increase: Ctrl + ↑
+(Volume)\
+Increase: Ctrl + ↑\
 Decrease: Ctrl + ↓
 
 
@@ -39,8 +35,8 @@ Decrease: Ctrl + ↓
 
 ===== Additional =====
 
-Medium     Forward: Ctrl  +       →
+Medium     Forward: Ctrl  +       →\
 Long       Forward: Ctrl  + Alt + →
 
-Fullscreen: F11
+Fullscreen: F11\
 Minimal   : Ctrl + H
