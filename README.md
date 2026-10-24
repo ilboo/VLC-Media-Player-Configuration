@@ -10,9 +10,10 @@ View => Status Bar (to see the playback speed)
 ===== Essential =====
 
 Preferences: Ctrl + P\
-Loop       : L\
+Loop       : L (Set just once to Loop All)\
 Previous   : P\
 Next       : N\
+Play/Pause : Space\
 Playlist   : Ctrl + L (Save Playlist: Ctrl + Y)
 
 Navigation         : Mouse wheel (Same as Very Short Forward/Backward)\
