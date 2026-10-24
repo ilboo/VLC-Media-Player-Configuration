@@ -19,7 +19,7 @@ Navigation         : Mouse wheel (Same as Very Short Forward/Backward)\
 Navigate Right     : → (Same as Short Forward : Alt + →)\
 Very Short Forward : Shift + →\
 Navigate Left      : ← (Same as Short Backward: Alt + ←)\
-Very Short Backward: Shift + ←\
+Very Short Backward: Shift + ←
 
 (Playback Speed)\
 Normal       : =\
